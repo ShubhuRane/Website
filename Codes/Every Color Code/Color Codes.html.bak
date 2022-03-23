@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>140 Standard Color Codes</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;140 Standard HTML Color Codes</h1>
+	<div class="text">
+	    <p>All Modern Browsers Support The Following 140 Color Names</p>
+	    <p>Here Are All The Supported 140 Color Codes</p>
+	</div>
+    <div class="container">
+	    <div class="row">
+		    <div class="column">
+			    <p>AliceBlue<p>
+				<p>#F0F8FF</p>
+			</div>
+			<div class="column">
+			    <p>AntiqueWhite</p>
+				<p>#FAEBD7</p>
+	        </div>
+		    <div class="column">
+			    <p>Aqua</p>
+				<p>#00FFFF</p>
+			</div>
+		    <div class="column">
+			    <p>Aquamarine</p>
+				<p>#7FFFD4</p>
+			</div>
+		    <div class="column">
+			    <p>Azure</p>
+				<p>#F0FFFF</p>
+			</div>
+			<p>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+			<div class="column">
+			    <p>Beige</p>
+				<p>#F5F5DC</p>
+			</div>
+			<div class="column">
+			    <p>Bisque</p>
+				<p>#FFE4C4</p>
+			</div>
+			<div class="column">
+			    <p>Black</p>
+				<p>#000000</p>
+			</div>
+			<div class="column">
+			    <p>BlanchedAlmond</p>
+				<p>#FFEBCD</p>
+			</div>
+			<div class="column">
+			    <p>Blue</p>
+				<p>#0000FF</p>
+			</div>
+			<p>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+			<div class="column">
+			    <p>BlueViolet</p>
+				<p>#8A2BE2</p>
+			</div>
+			<div class="column">
+			    <p>Brown</p>
+				<p>#A52A2A</p>
+			</div>
+			<div class="column">
+			    <p>BurlyWood</p>
+				<p>#DEB887</p>
+			</div>
+			<div class="column">
+			    <p>CadletBlue</p>
+				<p>#5F9EA0</p>
+			</div>
+			<div class="column">
+			    <p>Chartreuse</p>
+				<p>#7FFF00</p>
+			</div>
+			<p>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+			<div class="column">
+			    <p>Chocolate</p>
+				<p>#D2691E</p>
+			</div>
+			<div class="column">
+			    <p>Coral</p>
+				<p>#FF7F50</p>
+			</div>
+			<div class="column">
+			    <p>CornflowerBlue</p>
+				<p>#6495ED</p>
+			</div>
+			<div class="column">
+			    <p>Cornsilk</p>
+				<p>#FFF8DC</p>
+			</div>
+			<div class="column">
+			    <p>Crimson</p>
+				<p>#DC143C</p>
+			</div>
+			<p>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+			<div class="column">
+			    <p>Cyan</p>
+				<p>#00FFFF</p>
+			</div>
+			<div class="column">
+				<p>DarkBlue</p>
+				<p>#00008B</p>
+			</div>
+			<div class="column">
+			    <p>DarkCyan</p>
+				<p>#008B8B</p>
+			</div>
+			<div class="column">
+			    <p>DarkGoldenRod</p>
+				<p>#B8860B</p>
+			</div>
+			<div class="column">
+			    <p>DarkGray</p>
+				<p>#A9A9A9</p>
+			</div>
+			<p>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+			<div class="column">
+			    <p>DarkGreen</p>
+				<p>#006400</p>
+			</div>
+			<div class="column">
+			    <p>DarkKhaki</p>
+				<p>#BDB76B</p>
+			</div>
+			<div class="column">
+			    <p>DarkMagenta</p>
+				<p>#8B008B</p>
+			</div>
+			<div class="column">
+			    <p>DarkOliveGreen</p>
+				<p>#556B2F</p>
+			</div>
+				<div class="column">
+			    <p>DarkOrange</p>
+				<p>#FF8C00</p>
+			</div>
+			<p>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+			<div class="column">
+			    <p>DarkOrchid</p>
+				<p>#9932CC</p>
+			</div>
+			<div class="column">
+			    <p>DarkRed</p>
+				<p>#8B0000</p>
+			</div>
+			<div class="column">
+			    <p>DarkSalmon</p>
+				<p>#E9967A</p>
+			</div>
+			<div class="column">
+			    <p>DarkSeaGreen</p>
+				<p>#8FBC8F</p>
+			</div>
+				<div class="column">
+			    <p>DarkSlateBlue</p>
+				<p>#483D8B</p>
+			</div>
+		</body>
+</html>
